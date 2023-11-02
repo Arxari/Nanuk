@@ -1,2 +1,2 @@
 # Nanuk
-The sweetest dark theme
+![Nanuk](https://i.imgur.com/x1XDz1M.png)
